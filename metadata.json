@@ -1,0 +1,6 @@
+{
+  "name": "SlotSync – Smart College Doubt Booking Platform",
+  "description": "A modern college doubt-booking web app for first-year students to book time slots with professors, featuring OTP verification, professor room management, light/dark mode, real-time slot releasing, and trust score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
